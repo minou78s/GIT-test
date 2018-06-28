@@ -6,6 +6,9 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>GIT test</title>
     <style>
+    body {
+        background: yellow;
+    }
     h1 {
     font-family: Dusha;
     position: absolute;
@@ -13,7 +16,7 @@
     left: 25%;
     color: blue;
     font-size: 4em;
-
+    
     }
 
 
@@ -24,6 +27,8 @@
     </style>
 </head>
 <body>
+
+
     <h1>Vivement le mechoui ce midi!!</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro officia maiores iusto sit itaque. Consequuntur eius ipsa error ipsam temporibus atque in neque mollitia velit numquam corporis voluptate, aliquam ducimus? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repudiandae tempora quae at alias quos saepe et blanditiis voluptates voluptatibus placeat explicabo aperiam, nulla, facere repellat voluptatem voluptas quia! Excepturi, ratione?</p>
 </body>
